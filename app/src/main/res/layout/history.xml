@@ -99,7 +99,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="4dp"
-                android:text="Báo chí trong nước........"
+                android:text="Miền núi Đà Nẵng: Sạt lở bất ngờ, ba người mất liên lạc"
                 android:textColor="#FFFFFF"
                 android:textSize="16dp"
                 android:textStyle="bold" />
