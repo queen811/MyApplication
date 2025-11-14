@@ -20,8 +20,8 @@
             android:id="@+id/iv_utility_icon"
             android:layout_width="48dp"
             android:layout_height="48dp"
-            android:src="@drawable/ic_calendar"
-            android:tint="#4CAF50"/>
+
+            />
 
         <TextView
             android:id="@+id/tv_utility_name"
